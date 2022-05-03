@@ -1,14 +1,12 @@
-## 																		Primeiro Projeto utilizando JavaScript: CALCULADORA
+Primeiro Projeto utilizando JavaScript: CALCULADORA
 
-### 	Visão geral:
+Visão geral:
 
-​	Meu primeiro projeto utilizando JavaScript. Segue screenshot da página:
+​	Meu primeiro projeto utilizando JavaScript. Screenshot no diretório: screenshotCalculadora.PNG
 
-![screenshotCalculadora](C:\Users\Administrador\OneDrive\Cursos e facul\Projetinhos\appCalculadora\screenshotCalculadora.PNG)
+Meu processo:
 
-### Meu processo:
-
-#### Construído com:
+Construído com:
 
 - HTML5;
 - CSS3;
